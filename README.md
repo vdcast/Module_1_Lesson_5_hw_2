@@ -3,7 +3,7 @@
 
 OOP basics: inheritance, encapsulation, polymorphism.
 
-**Technical task:**
+**Task:**
 
 1. Take as a basis the result of an easy homework assignment.
 2. Let's improve our author. Let it inherit from the Human class. Let Human have only a first and last name (and getters, setters for them). Let the Worker class be inherited from it, and let one more method be added to it - createSignature(), i.e. subscribe, which returns a String with the last name and first name.
